@@ -13,7 +13,7 @@ one line: extract the table data from a website and convert it to json format.
 steps:
 
 
-1. Copy the files from this(Table2json) project to your present directory.
+1. Copy/download the files from this(Table2json) project to your present directory.
 2. Open terminal from present directory. 
 3. Type "sh extractingstation.sh" <space> and type station code like jp, aii, dhn etc. 
 4. Your station.json file contains all the informations of the trains from that station.
